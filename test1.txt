@@ -1,3 +1,7 @@
 function a1(p1){
 	return "salam";
 }
+
+function a2( p2){
+	return "khodahafex";
+}
