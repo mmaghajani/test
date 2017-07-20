@@ -5,3 +5,7 @@ function a1(p1){
 function a2( p2){
 	return "khodahafex";
 }
+
+function a3(p3){
+	return "salami dobare";
+}
