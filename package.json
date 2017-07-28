@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mmaghajani/test/issues"
   },
-  "homepage": "https://github.com/mmaghajani/test#readme"
+  "homepage": "https://github.com/mmaghajani/test#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
 }
